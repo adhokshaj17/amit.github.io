@@ -1,2 +1,2 @@
-# amit.github.io
+# smit.github.io
 hi there
